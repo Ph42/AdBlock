@@ -1,0 +1,9 @@
+http://*.euzavnv.info/*
+vk.com##*[data-ad]
+new.vk.com##*[data-ad]
+vk.com##*[data-ad-view]
+new.vk.com##*[data-ad-view]
+vk.com##*.ads_ads_news_wrap
+new.vk.com##*.ads_ads_news_wrap
+vk.com##*#ads_left
+new.vk.com##*#ads_left
